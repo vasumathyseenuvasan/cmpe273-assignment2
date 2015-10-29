@@ -1,3 +1,0 @@
-Steps:
-export GOPATH=(to current project folder - Assignment2)
-go run rest.go
